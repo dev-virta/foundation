@@ -1,0 +1,3 @@
+# Standalone Illuminate/Foundation package based on Laravel 4.1
+
+Allows bootstrapping Illuminate applications with the Foundation/Application class.

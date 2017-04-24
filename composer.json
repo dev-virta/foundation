@@ -15,6 +15,7 @@
 		"illuminate/routing": "4.1.30",
 		"illuminate/exception": "4.1.30",
 		"nesbot/carbon": "1.*",
+		"stack/builder": "1.0.*",
 		"symfony/browser-kit": "2.4.*",
 		"symfony/console": "2.4.*",
 		"symfony/debug": "2.4.*",

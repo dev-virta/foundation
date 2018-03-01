@@ -7,7 +7,7 @@
 		"classpreloader/classpreloader": "1.0.*",
 		"illuminate/console": "4.1.30",
 		"illuminate/http": "4.2.*",
-		"illuminate/config": "4.1.30",
+		"illuminate/config": "4.2.*",
 		"illuminate/container": "4.1.30",
 		"illuminate/filesystem": "4.2.*",
 		"illuminate/support": "4.1.30",

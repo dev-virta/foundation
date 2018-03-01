@@ -11,7 +11,7 @@
 		"illuminate/container": "4.1.30",
 		"illuminate/filesystem": "4.1.30",
 		"illuminate/support": "4.1.30",
-		"illuminate/events": "4.1.30",
+		"illuminate/events": "4.2.*",
 		"illuminate/routing": "4.1.30",
 		"illuminate/exception": "4.1.30",
 		"nesbot/carbon": "1.*",

@@ -17,7 +17,7 @@
 		"nesbot/carbon": "1.*",
 		"stack/builder": "1.0.*",
 		"symfony/browser-kit": "2.4.*",
-		"symfony/console": "2.4.*",
+		"symfony/console": "2.5.*",
 		"symfony/debug": "2.5.*",
 		"symfony/finder": "2.5.*",
 		"symfony/http-kernel": "2.5.*",

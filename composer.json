@@ -1,5 +1,5 @@
 {
-    "name": "j1881/foundation",
+    "name": "kurbar/foundation",
     "description": "Split version of Laravel frameworks Illuminate/Foundation",
     "license": "MIT",
     "require": {
